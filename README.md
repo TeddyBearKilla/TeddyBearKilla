@@ -25,11 +25,11 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://inkscape.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg" alt="Inkscape" width="40" height="40"/> </a> <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="GIMP" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://xerolinux.xyz/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="Arch" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p></p>
+<p align="center"> <a href="https://inkscape.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg" alt="Inkscape" width="40" height="40"/> </a> <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="GIMP" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://xerolinux.xyz/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="Arch" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 <h3 center="left">Support:</h3>
 
-<p align="center"> [![ko-fi](https://www.vectorlogo.zone/logos/ko-fi/ko-fi-icon.svg)](https://ko-fi.com/D1D5ERHKP) </p>
+<p align="center"> <a href="https://ko-fi.com/teddybearkilla" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ko-fi/ko-fi-icon.svg)](https://ko-fi.com/D1D5ERHKP" alt="Ko-fi" width="40" height="40"/> </a></p>
 
 <!---<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teddybearkilla&show_icons=true&locale=en&layout=compact" alt="teddybearkilla" /></p>
 
