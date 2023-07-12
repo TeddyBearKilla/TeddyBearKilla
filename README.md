@@ -28,7 +28,7 @@
 
 ✒️ I’m currently working on [**Afterglow Cursors Recolored**](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored)
 
-🍃 I’m currently learning **Inkscape & GIMP (GNU Image Manipulation Program)**
+🌱 I’m currently learning **Inkscape & GIMP (GNU Image Manipulation Program)**
 
 💬 Feel free to ask me about **Making Grub Setups or Afterglow Cursor Recolors for you**
 
