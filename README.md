@@ -7,9 +7,7 @@
 
 <!---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teddybearkilla" alt="teddybearkilla" /></a> </p>--->
 
-<p align="center">
-- 🔭 I’m currently working on [Afterglow Cursors Recolored](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored)
-</a>
+<h3 align="center">- 🔭 I’m currently working on [Afterglow Cursors Recolored](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored) </h3>
 
 - 🌱 I’m currently learning **Inkscape & GIMP (GNU Image Manipulation Program)**
 
@@ -17,7 +15,7 @@
 
 - 📫 How to reach me **noobilla@protonmail.com**
 
-- ⚡ Fun fact **I am A Wattson Main in Apex Legends & am well known on [r/WattsonMains](https://www.reddit.com/r/WattsonMains/) for my [guides](https://www.reddit.com/r/WattsonMains/comments/ql8tiv/tips_i_give_everyone_starting_out_as_wattson/).** </p>
+- ⚡ Fun fact **I am A Wattson Main in Apex Legends & am well known on [r/WattsonMains](https://www.reddit.com/r/WattsonMains/) for my [guides](https://www.reddit.com/r/WattsonMains/comments/ql8tiv/tips_i_give_everyone_starting_out_as_wattson/).**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
