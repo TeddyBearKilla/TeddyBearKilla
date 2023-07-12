@@ -6,17 +6,6 @@
 <p align="center"><a href="https://xerolinux.xyz/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="Arch" width="40" height="40"/></a></p>
 
 <!---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teddybearkilla" alt="teddybearkilla" /></a> </p>--->
-
-- 🔭 I’m currently working on [Afterglow Cursors Recolored](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored)
-
-- 🌱 I’m currently learning **Inkscape & GIMP (GNU Image Manipulation Program)**
-
-- 💬 Feel free to ask me about **Making Grub Setups or Afterglow Cursor Recolors for you**
-
-- 📫 How to reach me **noobilla@protonmail.com**
-
-- ⚡ Fun fact **I am A Wattson Main in Apex Legends & am well known on [r/WattsonMains](https://www.reddit.com/r/WattsonMains/) for my [guides](https://www.reddit.com/r/WattsonMains/comments/ql8tiv/tips_i_give_everyone_starting_out_as_wattson/).**
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.youtube.com/@TeddyBearKilla" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="teddybearkilla" height="30" width="40" /></a>
@@ -42,5 +31,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teddybearkilla&show_icons=true&locale=en" alt="teddybearkilla" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teddybearkilla&" alt="teddybearkilla" /></p>--->
+
+- 🔭 I’m currently working on [Afterglow Cursors Recolored](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored)
+
+- 🌱 I’m currently learning **Inkscape & GIMP (GNU Image Manipulation Program)**
+
+- 💬 Feel free to ask me about **Making Grub Setups or Afterglow Cursor Recolors for you**
+
+- 📫 How to reach me **noobilla@protonmail.com**
+
+- ⚡ Fun fact **I am A Wattson Main in Apex Legends & am well known on [r/WattsonMains](https://www.reddit.com/r/WattsonMains/) for my [guides](https://www.reddit.com/r/WattsonMains/comments/ql8tiv/tips_i_give_everyone_starting_out_as_wattson/).**
 
 
