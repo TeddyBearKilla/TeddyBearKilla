@@ -28,6 +28,7 @@
 
 <p align="center">
 🔭 I’m currently working on Afterglow Cursors Recolored <a href="https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" width="40" height="40"/> </a> 🔭
+
 🌱 I’m currently learning **Inkscape & GIMP (GNU Image Manipulation Program)** 🌱
 💬 Feel free to ask me about **Making Grub Setups or Afterglow Cursor Recolors for you** 💬
 📫 How to reach me **noobilla@protonmail.com**
