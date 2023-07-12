@@ -32,8 +32,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teddybearkilla&" alt="teddybearkilla" /></p>--->
 
-<p align="center">
-
 - 🔭 I’m currently working on [Afterglow Cursors Recolored](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored)
 
 - 🌱 I’m currently learning **Inkscape & GIMP (GNU Image Manipulation Program)**
@@ -43,6 +41,4 @@
 - 📫 How to reach me **noobilla@protonmail.com**
 
 - ⚡ **I am A Wattson Main in Apex Legends & am well known on [r/WattsonMains](https://www.reddit.com/r/WattsonMains/) for my [guides](https://www.reddit.com/r/WattsonMains/comments/ql8tiv/tips_i_give_everyone_starting_out_as_wattson/).**
-</p>
-
 
