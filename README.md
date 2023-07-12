@@ -26,7 +26,7 @@
 
 <p align="center"> <a href="https://ko-fi.com/teddybearkilla" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ko-fi/ko-fi-icon.svg" alt="Ko-fi" width="40" height="40"/> </a></p>
 
-🔭 I’m currently working on Afterglow Cursors Recolored <a href="https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" width="40" height="40"/> </a>
+🔭 I’m currently working on [Afterglow Cursors Recolored](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored)
 
 🌱 I’m currently learning **Inkscape & GIMP (GNU Image Manipulation Program)**
 
