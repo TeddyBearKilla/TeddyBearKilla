@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Afterglow Cursors Recolored](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored)
 </a>
 
-- 🌱 I’m currently learning **Inkscape & GIMP (GNU Image Manipulation Program)**
+- 🌱 I’m currently learning **Inkscape <a href="https://inkscape.org/" target="_blank" rel="noreferrer"> <img src="https://gitlab.com/inkscape/inkscape/-/blob/master/share/icons/Tango/scalable/actions/inkscape-logo.svg" alt="bash" width="40" height="40"/> </a> & GIMP (GNU Image Manipulation Program)**
 
 - 💬 Feel free to ask me about **Making Grub Setups or Afterglow Cursor Recolors for you**
 
