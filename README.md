@@ -19,12 +19,17 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/tbk_pc" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="TBK_PC" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@TeddyBearKilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="teddybearkilla" height="30" width="40" /></a>
+<a href="https://twitter.com/tbk_pc" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="TBK_PC" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://inkscape.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg" alt="Inkscape" width="40" height="40"/> </a> <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="GIMP" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://xerolinux.xyz/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="Arch" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<p align="center">
+<a href="https://inkscape.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg" alt="Inkscape" width="40" height="40"/> </a>
+<a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="GIMP" width="40" height="40"/> </a>
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+<a href="https://xerolinux.xyz/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="Arch" width="40" height="40"/> </a>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
 <h3 align="center">Support:</h3>
 
