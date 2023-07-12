@@ -34,7 +34,7 @@
 <p align="center">
 💬 Feel free to ask me about **Making Grub Setups or Afterglow Cursor Recolors for you**
 <p align="center">
-📫 How to reach me **noobilla@protonmail.com**
+📫 How to reach me <a href="noobilla@protonmail.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/filemaker/filemaker-icon.svg" alt="Github" width="40" height="40"/> </a> https://www.vectorlogo.zone/logos/filemaker/filemaker-icon.svg
 
 ⚡ **I am A Wattson Main in Apex Legends & am well known on [r/WattsonMains](https://www.reddit.com/r/WattsonMains/) for my [guides](https://www.reddit.com/r/WattsonMains/comments/ql8tiv/tips_i_give_everyone_starting_out_as_wattson/).** ⚡
 </p>
