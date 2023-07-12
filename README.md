@@ -6,7 +6,7 @@
 
 <!---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teddybearkilla" alt="teddybearkilla" /></a> </p>--->
 
-- 🔭 I’m currently working on <a href="https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored/tree/main">
+- 🔭 I’m currently working on    <a href="https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored/tree/main">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TeddyBearKilla&repo=Afterglow-Cursors-Recolored&cache_seconds=86400&theme=midnight-purple" />
 </a>
 
