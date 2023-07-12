@@ -18,8 +18,8 @@
 
 - ⚡ Fun fact **I am A Wattson Main in Apex Legends & am well known on [r/WattsonMains](https://www.reddit.com/r/WattsonMains/) for my [guides](https://www.reddit.com/r/WattsonMains/comments/ql8tiv/tips_i_give_everyone_starting_out_as_wattson/).**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <!--<a href="https://twitter.com/tbk_pc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tbk_pc" height="30" width="40" /></a>-->
 <a href="https://www.youtube.com/@TeddyBearKilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="teddybearkilla" height="30" width="40" /></a>
 </p>
@@ -29,7 +29,7 @@
 
 <h3 center="left">Support:</h3>
 
-<p align="center"> [![ko-fi](https://www.vectorlogo.zone/logos/ko-fi/ko-fi-icon.svg)](https://ko-fi.com/D1D5ERHKP)</p>
+<p align="center"> [![ko-fi](https://www.vectorlogo.zone/logos/ko-fi/ko-fi-icon.svg)](https://ko-fi.com/D1D5ERHKP) </p>
 
 <!---<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teddybearkilla&show_icons=true&locale=en&layout=compact" alt="teddybearkilla" /></p>
 
