@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Teddy (He/Him)</h1>
+<h1 align="center">Hi, I'm Teddy</h1>
+<h2 align="center">(He/Him)</h3>
 <h3 align="center">A graphics designer & Linux user</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teddybearkilla&label=Profile%20views&color=0e75b6&style=flat" alt="teddybearkilla" /> </p>
