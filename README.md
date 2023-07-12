@@ -19,7 +19,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<!--<a href="https://twitter.com/tbk_pc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tbk_pc" height="30" width="40" /></a>-->
+<a href="https://twitter.com/tbk_pc" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="TBK_PC" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@TeddyBearKilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="teddybearkilla" height="30" width="40" /></a>
 </p>
 
