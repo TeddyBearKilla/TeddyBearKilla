@@ -29,7 +29,7 @@
 
 <h3 center="left">Support:</h3>
 
-<p align="center">[![ko-fi](https://www.vectorlogo.zone/logos/ko-fi/ko-fi-icon.svg)](https://ko-fi.com/D1D5ERHKP)</p>
+<p align="center"> [![ko-fi](https://www.vectorlogo.zone/logos/ko-fi/ko-fi-icon.svg)](https://ko-fi.com/D1D5ERHKP)</p>
 
 <!---<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teddybearkilla&show_icons=true&locale=en&layout=compact" alt="teddybearkilla" /></p>
 
