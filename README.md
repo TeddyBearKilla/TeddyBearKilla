@@ -9,13 +9,13 @@
 - 🔭 I’m currently working on [Afterglow Cursors Recolored](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored)
 </a>
 
-- 🌱 I’m currently learning **Inkscape <a href="https://inkscape.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg" alt="Inkscape" width="40" height="40"/> </a> & GIMP (GNU Image Manipulation Program)** <a href="https://www.gimp.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="GIMP" width="40" height="40"/> </a>
+- 🌱 I’m currently learning **Inkscape <a href="https://inkscape.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/inkscape/inkscape-icon.svg" alt="Inkscape" width="40" height="40"/> </a> & GIMP (GNU Image Manipulation Program)** <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="GIMP" width="40" height="40"/> 
 
 - 💬 Feel free to ask me about **Making Grub Setups or Afterglow Cursor Recolors for you**
 
 - 📫 How to reach me **noobilla@protonmail.com**
 
-- ⚡ Fun fact **I am A Wattson Main in Apex Legends & am well known on r/WattsonMains for my guides.**
+- ⚡ Fun fact **I am A Wattson Main in Apex Legends & am well known on [r/WattsonMains](https://www.reddit.com/r/WattsonMains/) for my [guides](https://www.reddit.com/r/WattsonMains/comments/ql8tiv/tips_i_give_everyone_starting_out_as_wattson/).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
