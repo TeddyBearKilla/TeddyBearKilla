@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Teddy</h1>
 <h3 align="center">(He/Him)</h3>
 <h3 align="center">A graphics designer & Linux user</h3>
+<h3 align="center'>![Teddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeddyBearKilla&theme=midnight-purple&show_icons=true)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teddybearkilla&label=Profile%20views&color=0e75b6&style=flat" alt="teddybearkilla" /> </p>
 
