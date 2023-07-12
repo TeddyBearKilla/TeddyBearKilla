@@ -26,19 +26,17 @@
 
 <p align="center"> <a href="https://ko-fi.com/teddybearkilla" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ko-fi/ko-fi-icon.svg" alt="Ko-fi" width="40" height="40"/> </a></p>
 
+<p align="center">
+🔭 I’m currently working on Afterglow Cursors Recolored <a href="https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="Github" width="40" height="40"/> </a> 🔭
+🌱 I’m currently learning **Inkscape & GIMP (GNU Image Manipulation Program)** 🌱
+💬 Feel free to ask me about **Making Grub Setups or Afterglow Cursor Recolors for you** 💬
+📫 How to reach me **noobilla@protonmail.com**
+⚡ **I am A Wattson Main in Apex Legends & am well known on [r/WattsonMains](https://www.reddit.com/r/WattsonMains/) for my [guides](https://www.reddit.com/r/WattsonMains/comments/ql8tiv/tips_i_give_everyone_starting_out_as_wattson/).** ⚡
+</p>
+
+
 <!---<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teddybearkilla&show_icons=true&locale=en&layout=compact" alt="teddybearkilla" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teddybearkilla&show_icons=true&locale=en" alt="teddybearkilla" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=teddybearkilla&" alt="teddybearkilla" /></p>--->
-
-- 🔭 I’m currently working on [Afterglow Cursors Recolored](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored)
-
-- 🌱 I’m currently learning **Inkscape & GIMP (GNU Image Manipulation Program)**
-
-- 💬 Feel free to ask me about **Making Grub Setups or Afterglow Cursor Recolors for you**
-
-- 📫 How to reach me **noobilla@protonmail.com**
-
-- ⚡ **I am A Wattson Main in Apex Legends & am well known on [r/WattsonMains](https://www.reddit.com/r/WattsonMains/) for my [guides](https://www.reddit.com/r/WattsonMains/comments/ql8tiv/tips_i_give_everyone_starting_out_as_wattson/).**
-
