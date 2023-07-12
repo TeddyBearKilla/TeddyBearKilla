@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Teddy</h1>
 <h3 align="center">(He/Him)</h3>
-<h3 align="center">A graphics designer & Linux user</h3>
+<h3 align="center">A graphics designer & Linux user <a href="https://xerolinux.xyz/" target="_blank" rel="noreferrer"> <img src=" https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="Inkscape" width="40" height="40"/> </a> </h3>
 
 <p align="center"><a href="https://twitter.com/tbk_pc" target="blank"><img src="https://img.shields.io/twitter/follow/tbk_pc?logo=twitter&style=for-the-badge" alt="tbk_pc" /></a>  <img src="https://komarev.com/ghpvc/?username=teddybearkilla&label=Profile%20views&color=0e75b6&style=flat" alt="teddybearkilla" /> </p>
 
