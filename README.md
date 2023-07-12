@@ -28,7 +28,7 @@
 
 <h3 align="left">Support:</h3>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D5ERHKP)
+[![ko-fi](https://www.vectorlogo.zone/logos/ko-fi/ko-fi-icon.svg)](https://ko-fi.com/D1D5ERHKP)
 
 <!---<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teddybearkilla&show_icons=true&locale=en&layout=compact" alt="teddybearkilla" /></p>
 
