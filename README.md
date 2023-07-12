@@ -7,10 +7,11 @@
 <!---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teddybearkilla" alt="teddybearkilla" /></a> </p>--->
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+<a href="https://fosstodon.org/@TeddyBearKilla" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/joinmastodon/joinmastodon-icon.svg" alt="TBK_PC" height="35" width="35" /></a>
 <a href="https://www.youtube.com/@TeddyBearKilla" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="teddybearkilla" height="35" width="35" /></a>
 <a href="https://www.reddit.com/user/TeddyBearKilla69" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/reddit/reddit-icon.svg" alt="teddybearkilla" height="35" width="35" /></a>
 <a href="https://open.spotify.com/playlist/4HPOrvhnGPxlRM2UGetteu?si=cd9caef3556c4187" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" alt="teddybearkilla" height="35" width="35" /></a>
-<a href="https://fosstodon.org/@TeddyBearKilla" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/joinmastodon/joinmastodon-icon.svg" alt="TBK_PC" height="35" width="35" /></a>
+<a href="https://www.youtube.com/@TeddyBearKilla" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="teddybearkilla" height="35" width="35" /></a>
 <a href="https://twitter.com/tbk_pc" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="TBK_PC" height="35" width="35" /></a>
 </p>
 
