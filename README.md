@@ -2,15 +2,14 @@
 <h3 align="center">(He/Him)</h3>
 <h3 align="center">A graphics designer & Linux user</h3>
 
-<p align="center"><a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TeddyBearKilla&show_icons=true&theme=midnight-purple" />
-</a></p>
-
 <p align="center"><a href="https://twitter.com/tbk_pc" target="blank"><img src="https://img.shields.io/twitter/follow/tbk_pc?logo=twitter&style=for-the-badge" alt="tbk_pc" /></a>  <img src="https://komarev.com/ghpvc/?username=teddybearkilla&label=Profile%20views&color=0e75b6&style=flat" alt="teddybearkilla" /> </p>
 
 <!---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teddybearkilla" alt="teddybearkilla" /></a> </p>--->
 
-- 🔭 I’m currently working on [Afterglow Cursors Recolored](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored)
+- 🔭 I’m currently working on <p align="center"> <a href="https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored/tree/main">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TeddyBearKilla&repo=Afterglow-Cursors-Recolored&cache_seconds=86400&theme=midnight-purple" />
+</a>
+</p>
 
 - 🌱 I’m currently learning **Inkscape & GIMP (GNU Image Manipulation Program)**
 
