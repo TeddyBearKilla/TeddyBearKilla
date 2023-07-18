@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Teddy   (He/Him)</h1>
 <h3 align="center">A graphics designer & Linux user</h3>
 
-<p align="center"><a href="https://github.com/antonkomarev/github-profile-views-counter" target="blank"><img src="https://komarev.com/ghpvc/?username=teddybearkilla&label=Profile%20views&color=0e75b6&style=flat" alt="teddybearkilla"/></p>
+<p align="center"><a href="https://github.com/antonkomarev/github-profile-views-counter" target="blank"><img src="https://komarev.com/ghpvc/?username=teddybearkilla&label=Profile%20views&color=8a80e0&style=flat" alt="teddybearkilla"/></p>
 <p align="center"><a href="https://xerolinux.xyz/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="Arch" width="40" height="40"/></a></p>
 
 <!---<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=teddybearkilla" alt="teddybearkilla" /></a> </p>--->
