@@ -39,6 +39,10 @@
 
 ![Teddy's Github Stats](https://github-readme-stats.vercel.app/api?username=TeddyBearKilla&theme=material-palenight&show_icons=true)
 
+<a>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TeddyBearKilla&theme=material-palenight&show_icons=true" />
+</a>
+
 <!---<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teddybearkilla&show_icons=true&locale=en&layout=compact" alt="teddybearkilla" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=teddybearkilla&show_icons=true&locale=en" alt="teddybearkilla" /></p>
