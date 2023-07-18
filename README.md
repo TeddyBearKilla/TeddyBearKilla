@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/TeddyBearKilla/" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TeddyBearKilla&theme=material-palenight&show_icons=true" alt="Github Stats" height="0" width="500" /></a>
+<a href="https://github.com/TeddyBearKilla/" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TeddyBearKilla&theme=material-palenight&show_icons=true" alt="Github Stats" height="20" width="500" /></a>
 </p>
 
 <!---<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teddybearkilla&show_icons=true&locale=en&layout=compact" alt="teddybearkilla" /></p>
