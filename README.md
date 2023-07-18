@@ -30,9 +30,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TeddyBearKilla&theme=material-palenight&show_icons=true" alt="Github Stats" height="200" width="500" /></a>
 </p>
 
-🎨 I’m currently working on [**Afterglow Cursors Recolored**](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored)
+🎨 I’m working on [**Afterglow Cursors Recolored**](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored)
 
-🌱 I’m currently learning **Inkscape & GIMP (GNU Image Manipulation Program)**
+🌱 I’m learning **Inkscape & GIMP (GNU Image Manipulation Program)**
 
 💬 Feel free to ask me about **Making Grub Setups or Afterglow Cursor Recolors for you**
 
