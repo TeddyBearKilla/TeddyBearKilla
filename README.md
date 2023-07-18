@@ -26,6 +26,10 @@
 
 <p align="center"> <a href="https://ko-fi.com/teddybearkilla" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ko-fi/ko-fi-icon.svg" alt="Ko-fi" width="40" height="40"/> </a></p>
 
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TeddyBearKilla&theme=material-palenight&show_icons=true" alt="Github Stats" height="200" width="500" /></a>
+</p>
+
 🎨 I’m currently working on [**Afterglow Cursors Recolored**](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored)
 
 🌱 I’m currently learning **Inkscape & GIMP (GNU Image Manipulation Program)**
@@ -37,9 +41,6 @@
 ⚡ **I am A Wattson Main in Apex Legends & am well known on [r/WattsonMains](https://www.reddit.com/r/WattsonMains/) for my [guides](https://www.reddit.com/r/WattsonMains/comments/ql8tiv/tips_i_give_everyone_starting_out_as_wattson/).** ⚡
 </p>
 
-<p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TeddyBearKilla&theme=material-palenight&show_icons=true" alt="Github Stats" height="200" width="500" /></a>
-</p>
 
 <!---<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teddybearkilla&show_icons=true&locale=en&layout=compact" alt="teddybearkilla" /></p>
 
