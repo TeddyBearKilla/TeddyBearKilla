@@ -25,7 +25,7 @@
 <h3 align="center">Support:</h3>
 
 <p align="center"> <a href="https://ko-fi.com/teddybearkilla" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ko-fi/ko-fi-icon.svg" alt="Ko-fi" width="40" height="40"/> </a></p>
-<p align="center"><a href="https://github.com/antonkomarev/github-profile-views-counter" target="blank"><img src="https://komarev.com/ghpvc/?username=teddybearkilla&label=Profile%20views&color=AD82CE&style=plastic" alt="teddybearkilla"/></p>
+<p align="center"><a href="https://github.com/antonkomarev/github-profile-views-counter" target="blank"><img src="https://komarev.com/ghpvc/?username=teddybearkilla&label=Profile%20views&color=AD82CE&style=flat" alt="teddybearkilla"/></p>
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TeddyBearKilla&theme=material-palenight&show_icons=true" alt="Github Stats" height="200" width="500" /></a>
 </p>
