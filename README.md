@@ -37,8 +37,6 @@
 ⚡ **I am A Wattson Main in Apex Legends & am well known on [r/WattsonMains](https://www.reddit.com/r/WattsonMains/) for my [guides](https://www.reddit.com/r/WattsonMains/comments/ql8tiv/tips_i_give_everyone_starting_out_as_wattson/).** ⚡
 </p>
 
-![Teddy's Github Stats](https://github-readme-stats.vercel.app/api?username=TeddyBearKilla&theme=material-palenight&show_icons=true)
-
 <p align="center">
 <a href="https://github.com/TeddyBearKilla/" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TeddyBearKilla&theme=material-palenight&show_icons=true" alt="Github Stats" height="600" width="600" /></a>
 </p>
