@@ -39,7 +39,7 @@
 📬 How to reach me **noobilla@protonmail.com**
 
 ⚡ **I am A Wattson Main in Apex Legends & am well known on [r/WattsonMains](https://www.reddit.com/r/WattsonMains/) for my [guides](https://www.reddit.com/r/WattsonMains/comments/ql8tiv/tips_i_give_everyone_starting_out_as_wattson/).** ⚡
-</p>
+</p> 
 
 
 <!---<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=teddybearkilla&show_icons=true&locale=en&layout=compact" alt="teddybearkilla" /></p>
