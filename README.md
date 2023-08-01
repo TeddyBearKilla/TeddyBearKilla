@@ -27,7 +27,7 @@
 <p align="center"> <a href="https://ko-fi.com/teddybearkilla" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ko-fi/ko-fi-icon.svg" alt="Ko-fi" width="40" height="40"/> </a></p>
 <p align="center"><a href="https://github.com/antonkomarev/github-profile-views-counter" target="blank"><img src="https://komarev.com/ghpvc/?username=teddybearkilla&label=Profile%20views&color=9D77BB&style=flat" alt="teddybearkilla"/></p>
 <p align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TeddyBearKilla&theme=material-palenight&show_icons=true" alt="Github Stats" height="200" width="500" /></a>
+<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards" target="blank"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TeddyBearKilla&theme=material_palenight" alt="Github Stats" height="200" width="500" /></a>
 </p>
 
 🎨 I’m working on [**Afterglow Cursors Recolored**](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored) & [**Qogir Cursors Recolored**](https://github.com/TeddyBearKilla/Qogir-Cursors-Recolored)
