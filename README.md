@@ -30,7 +30,7 @@
 <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TeddyBearKilla&theme=material-palenight&show_icons=true" alt="Github Stats" height="200" width="500" /></a>
 </p>
 
-🎨 I’m working on [**Afterglow Cursors Recolored**](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored) & [**Qogir Cursors Recolored**](https://github.com/TeddyBearKilla/Qogir-Cursors-Recolored)
+🎨 I’m working on [**Afterglow Cursors Recolored**](https://github.com/TeddyBearKilla/Afterglow-Cursors-Recolored), [**Qogir Cursors Recolored**](https://github.com/TeddyBearKilla/Qogir-Cursors-Recolored) & [**Graphite Cursors Recolored**](https://github.com/TeddyBearKilla/Graphite-Cursors-Recolored)
 
 🌱 I’m learning **Inkscape & GIMP (GNU Image Manipulation Program)**
 
