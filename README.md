@@ -34,7 +34,7 @@
 
 🌱 I’m learning **Inkscape & GIMP (GNU Image Manipulation Program)**
 
-💬 Feel free to ask me about **Making Grub Setups or Afterglow / Qogir Cursor Recolors for you**
+💬 Feel free to ask me about **Making Grub Setups or Afterglow / Qogir / Graphite Cursor Recolors for you**
 
 📬 How to reach me **noobilla@protonmail.com**
 
